@@ -273,11 +273,13 @@ For web, production is updated via `npm run web:deploy`. Desktop users need a ne
 
 - **Repository:** [github.com/rulhaq/shiftIDE](https://github.com/rulhaq/shiftIDE)
 - **Web app:** [shiftide.web.app](https://shiftide.web.app)
-<img width="1912" height="1102" alt="shiftide-user-console" src="https://github.com/user-attachments/assets/e1ef09dd-5390-4840-8e7d-98477bf17627" />
-<img width="1912" height="1137" alt="shiftide-infra" src="https://github.com/user-attachments/assets/002053df-d760-4600-902a-454bf0aee36f" />
-<img width="1919" height="1135" alt="shiftide-settings" src="https://github.com/user-attachments/assets/fb486d09-6586-451a-a282-f398c6bde7eb" />
-<img width="1917" height="1132" alt="shiftide-ai" src="https://github.com/user-attachments/assets/d1d17bc1-2bea-4a65-b54d-4250adf4773d" />
-<img width="1911" height="1132" alt="shiftide-commands" src="https://github.com/user-attachments/assets/9f1af3a5-78f4-4195-8d6c-696e4c388c19" />
-<img width="1917" height="1135" alt="shiftide-workflow" src="https://github.com/user-attachments/assets/7f634340-0d71-417f-89b6-f948b04289a2" />
-<img width="1915" height="1132" alt="shiftide-Main" src="https://github.com/user-attachments/assets/f5097ba9-b89d-4b01-8cb0-b5e4a185e843" />
 
+
+
+<img width="1911" height="1132" alt="shiftide-commands" src="https://github.com/user-attachments/assets/8f05915b-03d0-489e-bb58-434a8a669574" />
+<img width="1917" height="1132" alt="shiftide-ai" src="https://github.com/user-attachments/assets/2229e94b-d1c9-4e12-991e-aefec296fd12" />
+<img width="1919" height="1135" alt="shiftide-settings" src="https://github.com/user-attachments/assets/edb9db41-a316-4cf8-bd19-4d06f50f2b53" />
+<img width="1912" height="1137" alt="shiftide-infra" src="https://github.com/user-attachments/assets/deeb7957-e66e-46ee-b877-b6e57c3d1edf" />
+<img width="1912" height="1102" alt="shiftide-user-console" src="https://github.com/user-attachments/assets/5bf669f7-5c90-4df1-ab2b-40aebfc3a200" />
+<img width="1915" height="1132" alt="shiftide-Main" src="https://github.com/user-attachments/assets/270a926b-d01c-49eb-8b49-1743378becb7" />
+<img width="1917" height="1135" alt="shiftide-workflow" src="https://github.com/user-attachments/assets/b2bf2b3b-878f-43e7-82f3-cfedd49793dd" />
